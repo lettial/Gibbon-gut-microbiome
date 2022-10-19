@@ -1,0 +1,38 @@
+cazy	enzyme
+GH5	Cellulase
+GH8	Cellulase
+GH9	Cellulase
+GH44	Cellulase
+GH48	Cellulase
+GH51	Cellulase
+GH74	Cellulase
+GH124	Cellulase
+GH5_1	Hemicellulase
+GH8_1	Hemicellulase
+GH10	Hemicellulase
+GH16	Hemicellulase
+GH26	Hemicellulase
+GH30	Hemicellulase
+GH43	Hemicellulase
+GH44_1	Hemicellulase
+GH51_1	Hemicellulase
+GH53	Hemicellulase
+GH98	Hemicellulase
+GH141	Hemicellulase
+GH28	Pectinase
+GH51_2	Debranching enzymes
+GH54	Debranching enzymes
+GH67	Debranching enzymes
+GH78	Debranching enzymes
+GH13	Amylases
+GH31	Amylases
+GH97	Amylases
+GH1	Oligosaccharide
+GH2	Oligosaccharide
+GH3	Oligosaccharide
+GH29	Oligosaccharide
+GH35	Oligosaccharide
+GH38	Oligosaccharide
+GH39	Oligosaccharide
+GH42	Oligosaccharide
+GH43_1	Oligosaccharide
